@@ -1,4 +1,4 @@
-# Atividade1
+# Testes Automatizados 1 - Selenium  
 Testes Automatizados
 
 
@@ -14,5 +14,3 @@ Testes Automatizados
 
 6 - Validar que foi o formulário foi enviado.
 
-
-OBS: Usar a estrura de Page Object
