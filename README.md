@@ -1,5 +1,5 @@
 # Atividade1
-Exercícios Testes Automatizados
+Testes Automatizados
 
 
 1 - Acessar o site: https://wpforms.com/demo/
